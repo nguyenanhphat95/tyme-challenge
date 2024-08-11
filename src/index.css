@@ -1,0 +1,11 @@
+:root {
+  --linear-primary-color: linear-gradient(to right, #da458f, #da34dd);
+  --primary-color: #da458f;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  color: white;
+}

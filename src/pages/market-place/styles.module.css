@@ -1,0 +1,28 @@
+.banner {
+  background-image: url("/public/images/introduction/banner.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
+.banner-tablet {
+  height: 400px;
+}
+
+.banner-mobile {
+  height: 200px;
+}
+
+.main {
+  background-image: url("/public/images/main/background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 50px;
+}
+
+.footer {
+  background-image: url("/public/images/footer/footer.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 300px;
+}
